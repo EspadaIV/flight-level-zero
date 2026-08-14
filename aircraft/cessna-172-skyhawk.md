@@ -9,11 +9,11 @@
 
 ## What Is It?
 
-<!-- Beginner-friendly overview. -->
+The Cessna 172 Skyhawk is a light aircraft. .<!-- Beginner-friendly overview. -->
 
 ## What Was It Designed to Do?
 
-<!-- Primary purpose, role, or historical significance. -->
+It is considered a student pilot trainer. It is used for personal aircraft, passenger flights, sightseeing, and some cargo. It is used by the coast guard
 
 ## Major Features
 
@@ -29,6 +29,7 @@
 
 ## Why It Matters
 
+the new version is powered by vacuum electronics. In the older versions uses something hornshaped, like an air horn thing that doesnt give out noise.
 <!-- Explain why this aircraft is important, interesting, or useful for understanding aviation. -->
 
 ## Beginner Questions
