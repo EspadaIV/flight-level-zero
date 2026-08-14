@@ -1,4 +1,4 @@
-# Wright Flyer
+# RV6
 
 > **Status:** Draft  
 > **Project:** Flight Level Zero
@@ -9,15 +9,15 @@
 
 ## What Is It?
 
-<!-- Beginner-friendly overview. -->
+A two seater, low wing, experimental aircraft
 
 ## What Was It Designed to Do?
 
-<!-- Primary purpose, role, or historical significance. -->
+Personal flights, sightseeing flights
 
 ## Major Features
 
-<!-- Add verified features as bullet points. -->
+wings that are positioned below the fuselage
 
 ## How It Flies
 
